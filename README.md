@@ -1,0 +1,2 @@
+PRINT F - this is a function specified  in the stdio.h library it is used to print the user input into the screen
+SPECIFIERS - are special codes or symbols used to define the data type and format of values when performing input and output operations. they are commonly used with printf				      c : character 					              s : string						      %	: format specifiers					      d : decimal					              i : interger		
